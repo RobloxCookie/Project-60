@@ -1,0 +1,42 @@
+#pizza {
+    background-color:coral;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    font-variant: small-caps;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#cake {
+    background-color:lightgoldenrodyellow;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    font-variant: small-caps;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#frenchfries {
+    background-color:aquamarine;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    font-variant: small-caps;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#chickennuggets {
+    background-color:salmon;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    font-variant: small-caps;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#imgs
+height:400px;
+width:400px;
